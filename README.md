@@ -92,7 +92,8 @@ Rajarshi School of Management & Technology, Varanasi (2018-2021)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anu-bhav-Sri&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anu-bhav-Sri&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu-bhav-Sri&layout=compact&theme=radical" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu-bhav-Sri&layout=compact&theme=radical" alt="Top Languages" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu-bhav-Sri&layout=compact&theme=radical&langs_count=10" alt="Top Languages Used" />
 </p>
 
 ---
