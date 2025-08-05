@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 
-- 🎓 MCA student at **NIT Warangal** with a focus on scalable system design and software architecture.
+- 🎓 MCA student at **NIT Warangal** (2022-2025).
 - 💻 Hands-on experience in **Java**, **Spring Boot**, **React.js**, and building RESTful microservices.
 - ⚡ Built full-stack applications including a **Quiz Management System**, **Code Editor**, and **Chat App**.
 - 🔌 Experienced in **real-time app development** using **WebSockets** and **Socket.IO**.
@@ -72,18 +72,18 @@ Rajarshi School of Management & Technology, Varanasi (2018-2021)
 > 🛠️ Eureka, Gateway, LoadBalancer, JWT & OAuth2  
 > 🧩 Modular structure: User, Quiz, and Question services
 
+### 🔹 [Software Defect Prediction](https://github.com/Anu-bhav-Sri/Software-Defect-Prediction-using-KC2-Dataset.git)
+> ML-based prediction using historical bug data  
+> 📊 Built with Scikit-learn, evaluated with F1-score
+
 ### 🔹 [Real-Time Code Editor](https://github.com/Anu-bhav-Sri/Real-Time-CodeEditor.git)
 > MERN stack | Socket.IO | CodeMirror  
 > ✍️ Real-time collaborative coding  
 > 🔒 Secure room creation with UUID
 
-### 🔹 Chat Application (https://github.com/Anu-bhav-Sri/Chat-App.git)
+### 🔹 [Chat Application](https://github.com/Anu-bhav-Sri/Chat-App.git)
 > React, Node.js, WebSocket, MongoDB  
 > 💬 Real-time messaging with typing indicators and user status
-
-### 🔹 Software Defect Prediction (https://github.com/Anu-bhav-Sri/Software-Defect-Prediction-using-KC2-Dataset.git)
-> ML-based prediction using historical bug data  
-> 📊 Built with Scikit-learn, evaluated with F1-score
 
 ---
 
