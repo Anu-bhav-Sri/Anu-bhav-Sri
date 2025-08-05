@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | ML & DL Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+building+smart+solutions;Keen+learner+in+AI%2C+ML+%26+DL;Open+to+collaborations+on+interesting+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=400&lines=Passionate+about+building+smart+solutions;Keen+learner+in+AI%2C+ML+%26+DL;Open+to+collaborations+on+interesting+projects" alt="Typing SVG" />
 </p>
 
 ---
