@@ -14,8 +14,6 @@
 - ⚡ Built full-stack applications including a **Quiz Management System**, **Code Editor**, and **Chat App**.
 - 🔌 Experienced in **real-time app development** using **WebSockets** and **Socket.IO**.
 - 🤖 Passionate about **AI/ML**, with projects like **Software Defect Prediction** using Scikit-learn & TensorFlow.
-- 🧠 Solved **900+ DSA problems on LeetCode** and **500+ on GeeksforGeeks** to enhance algorithmic thinking.
-
 ---
 
 ## 🎓 Education
