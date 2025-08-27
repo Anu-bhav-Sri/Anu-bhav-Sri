@@ -16,15 +16,6 @@
 - 🤖 Passionate about **AI/ML**, with projects like **Software Defect Prediction** using Scikit-learn & TensorFlow.
 ---
 
-## 🎓 Education
-**Master of Computer Application (MCA)**  
-National Institute of Technology, Warangal (2022–2025)  
-
-**Bachelor of Computer Application (BCA)**  
-Rajarshi School of Management & Technology, Varanasi (2018-2021)  
-
----
-
 ## 🧠 Skills Overview
 
 ### 👨‍💻 Programming Languages
